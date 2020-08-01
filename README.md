@@ -1,4 +1,4 @@
-# smartgamer.github.io
+# Create github pages
 
 https://pages.github.com/
 
